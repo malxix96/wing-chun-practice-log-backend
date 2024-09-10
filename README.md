@@ -1,1 +1,1 @@
-# wing-chun-practice-log-node.js
+# wing-chun-practice-log-backend
